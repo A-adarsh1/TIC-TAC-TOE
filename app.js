@@ -59,7 +59,7 @@ const showWinner = (winner) => {
 }
 
 const draw = () => {
-  msg.innerText = `Game draw, Both player are nice`
+  msg.innerText = `Game Draw!, Both player are nice`
   msgContainer.classList.remove("hide");
 }
 
